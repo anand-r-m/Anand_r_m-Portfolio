@@ -21,7 +21,6 @@ a {
   transition: color 0.2s;
 }
 
-/* Navigation */
 nav {
   background: #1a1a1a;
   padding: 16px 30px;
@@ -55,7 +54,7 @@ nav ul a:hover {
   color: #7eb8da;
 }
 
-/* Hero */
+
 .hero {
   background: #1a1a1a;
   color: #e0e0e0;
@@ -86,7 +85,6 @@ nav ul a:hover {
   font-size: 1rem;
 }
 
-/* Page header (for inner pages) */
 .page-header {
   padding: 35px 30px 25px;
   max-width: 750px;
@@ -104,7 +102,6 @@ nav ul a:hover {
   font-size: 0.9rem;
 }
 
-/* Sections */
 section {
   padding: 35px 30px 45px;
   max-width: 750px;
@@ -134,7 +131,6 @@ p {
   margin-bottom: 10px;
 }
 
-/* About */
 .info-list {
   margin-top: 14px;
   list-style: none;
@@ -161,7 +157,6 @@ p {
   font-size: 0.95rem;
 }
 
-/* Sub-sections within about */
 .sub-section {
   margin-top: 32px;
 }
@@ -172,7 +167,6 @@ p {
   margin-bottom: 10px;
 }
 
-/* Projects */
 .project {
   border: 1px solid #2a2a2a;
   border-radius: 6px;
@@ -209,7 +203,6 @@ p {
   text-decoration: underline;
 }
 
-/* Skills */
 .skills-list {
   list-style: none;
   display: flex;
@@ -226,7 +219,6 @@ p {
   border: 1px solid #2a2a2a;
 }
 
-/* Skills categories (for skills page) */
 .skills-grid {
   display: flex;
   flex-wrap: wrap;
@@ -263,7 +255,6 @@ p {
   color: #555;
 }
 
-/* Contact */
 .contact-box {
   background: #1a1a1a;
   border: 1px solid #2a2a2a;
@@ -294,7 +285,6 @@ p {
   text-decoration: underline;
 }
 
-/* Footer */
 footer {
   background: #1a1a1a;
   color: #555;
@@ -314,7 +304,6 @@ footer a:hover {
   color: #7eb8da;
 }
 
-/* Responsive */
 @media (max-width: 600px) {
   nav {
     flex-direction: column;
